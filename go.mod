@@ -1,4 +1,4 @@
-module go_spider
+module github.com/touch-head-optimistically/go_spider
 
 go 1.15
 
